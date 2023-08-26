@@ -55,7 +55,7 @@ export default function HamburgerMenuPage({
               className="py-2 px-4"
             />
           </a>
-          <a href="" className="inline-block ">
+          <a href="" className="inline -block ">
             <img
               src="/youtube.svg"
               alt="Instagram logo"
