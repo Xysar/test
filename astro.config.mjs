@@ -9,5 +9,5 @@ import sanity from "astro-sanity";
 export default defineConfig({
   output: "server",
   adapter: vercel(),
-  integrations: [react(), tailwind(), sanity()]
+  integrations: [react(), tailwind(), sanity()],
 });
